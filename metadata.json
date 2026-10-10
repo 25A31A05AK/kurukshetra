@@ -1,0 +1,8 @@
+{
+  "name": "CyberSync: AI Companion & Work OS",
+  "description": "High-energy cyberpunk daily planner, habit streak matrix, Pomodoro focus deck with ambient soundscapes, and personal AI work companion.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
